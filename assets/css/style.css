@@ -21,6 +21,14 @@ a {
   transition: 0.5s;
 }
 
+h3 {
+   color: #e8c972 !important;
+}
+
+.bi-check {
+   color: #e8c972 !important;
+}
+
 a:hover,
 a:active,
 a:focus {
